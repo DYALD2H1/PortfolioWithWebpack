@@ -1,7 +1,7 @@
 {
   "name": "PortfolioWebpack",
   "version": "1.0.0",
-  "description": "Project Base: A minimal portfolio with Vanilla JavaScript. Author: Oscar Barajas <oscar@gndx.dev>",
+  "description": "Project Base: A minimal portfolio with Vanilla JavaScript. Author: Oscar Barajas <oscar@gndx.dev>. Studen: Adolfo Hernandez",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,17 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/DYALD2H1/PortfolioWithWebpack.git"
   },
   "keywords": [
     "javascript",
     "html",
-    "css"
+    "css",
+    "webpack"
   ],
   "author": "Adolfo Hernandez",
   "license": "MIT",
   "bugs": {
-    "url": "/issues"
+    "url": "https://github.com/DYALD2H1/PortfolioWithWebpack/issues"
   },
   "homepage": "/js-portfolio#readme",
   "devDependencies": {
