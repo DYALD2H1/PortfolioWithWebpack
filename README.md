@@ -6,4 +6,5 @@ Practical course of application deployment with Webpack using the Portfolio made
 
 [Webpack Page]('https://webpack.js.org/concepts/')
 
+
 ![Curso de Webpack en Platzi](https://www.campusmvp.es/recursos/image.axd?picture=/2017/4T/Webpack-Concepto.gif)
